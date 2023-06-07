@@ -1,25 +1,54 @@
 {
-  "bb": [
-    { "msg": "bebuz" },
-    { "msg": "bbb" },
-    { "msg": "bubuu" },
-        { "msg": "bub" },
-            { "msg": "buuu" },
-            { "msg": "bb" },
-        { "msg": "bebuu" },
-
-  ],
-  "wassup": [
-    { "msg": "wassup" },
-    { "msg": "waddaap bu" },
-    { "msg": "wyd bub" },
-            { "msg": "wadaaaap bb" },
-        { "msg": "wasssp" },
-        { "msg": "what's going onnn" },
-        { "msg": "wyd jii?" },
-        { "msg": "wyd bb?" },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "bb":[
+      {
+         "msg":"bebuz"
+      },
+      {
+         "msg":"bbb"
+      },
+      {
+         "msg":"bubuu"
+      },
+      {
+         "msg":"bub"
+      },
+      {
+         "msg":"buuu"
+      },
+      {
+         "msg":"bb"
+      },
+      {
+         "msg":"bebuu"
+      }
+   ],
+   "wassup":[
+      {
+         "msg":"wassup"
+      },
+      {
+         "msg":"waddaap bu"
+      },
+      {
+         "msg":"wyd bub"
+      },
+      {
+         "msg":"wadaaaap bb"
+      },
+      {
+         "msg":"wasssp"
+      },
+      {
+         "msg":"what's going onnn"
+      },
+      {
+         "msg":"wyd jii?"
+      },
+      {
+         "msg":"wyd bb?"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
